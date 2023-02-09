@@ -1,0 +1,15 @@
+/* Inline Code, edit mode */
+.cm-inline-code {
+  color: #EB5757 !important;
+  background-color: rgba(135,131,120,0.15) !important;
+}
+
+/* Inline Code, view mode */
+.markdown-rendered code {
+  color: #EB5757 !important;
+  font-family: var(--font-monospace);
+  background-color: var(--code-background);
+  border-radius: var(--radius-s);
+  font-size: var(--code-size);
+  padding: 0.1em 0.25em;
+}

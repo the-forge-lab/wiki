@@ -1,0 +1,22 @@
+{
+  "renderNullAs": "ø",
+  "taskCompletionTracking": true,
+  "taskCompletionUseEmojiShorthand": true,
+  "taskCompletionText": "completion",
+  "taskCompletionDateFormat": "yyyy-MM-dd",
+  "warnOnEmptyResult": true,
+  "refreshEnabled": true,
+  "refreshInterval": 2500,
+  "defaultDateFormat": "yyyy-MM-dd",
+  "defaultDateTimeFormat": "dd/MM/yyyy - T",
+  "maxRecursiveRenderDepth": 4,
+  "tableIdColumnName": "name",
+  "tableGroupColumnName": "group",
+  "allowHtml": true,
+  "inlineQueryPrefix": "=",
+  "inlineJsQueryPrefix": "$=",
+  "inlineQueriesInCodeblocks": true,
+  "enableDataviewJs": true,
+  "enableInlineDataviewJs": true,
+  "prettyRenderInlineFields": true
+}
