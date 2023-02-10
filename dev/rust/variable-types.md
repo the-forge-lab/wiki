@@ -30,7 +30,6 @@ u64
 ## Floats
 Store signed float
 ```rust
-f16
 f32
 f64
 ```

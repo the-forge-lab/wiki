@@ -40,7 +40,7 @@ type: part
 
 ## Appendix
 ### Type of case
-```rust
+```shell
 snake_case
 SCREAMING_SNAKE_CASE
 PascalCase

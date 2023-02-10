@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2acbc29cf1a72da7",
+        "id": "49b5a68d731f40c4",
         "type": "tabs",
         "children": [
           {
-            "id": "9f12e0ad60ce68b2",
+            "id": "f6a3f8c01134e571",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dev/various/code-netiquet.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dev/various/code-netiquet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dev/various/code-netiquet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dev/various/code-netiquet.md"
+              }
             }
           },
           {
@@ -164,17 +173,17 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "9f12e0ad60ce68b2",
+  "active": "1247849e42356520",
   "lastOpenFiles": [
-    "wiki/docs/index.md",
-    "personal/skeleton.md",
-    "personal/motiv-epita.md",
-    "dev/ideas/ideas.md",
-    "Untitled.md",
-    "personal/cloud.md",
-    "personal/presentation.md",
-    "personal/reasons.md",
-    "personal/praha/praha.md",
-    "dev/dev.md"
+    "dev/various/code-netiquet.md",
+    "dev/rust/variable-types.md",
+    "dev/linux/commands/commands.md",
+    "dev/linux/commands/cat.md",
+    "dev/linux/linux.md",
+    "dev/linux/commands/echo.md",
+    "dev/linux/commands/tree.md",
+    "dev/linux/commands/touch.md",
+    "dev/linux/commands/rmdir.md",
+    "dev/linux/commands/rm.md"
   ]
 }

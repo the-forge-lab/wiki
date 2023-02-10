@@ -7,5 +7,5 @@ date: {{date}}
 pin: false
 type: part
 ---
-[[dev|Go Up]]
+[Go Up](dev)
 # {{title}}

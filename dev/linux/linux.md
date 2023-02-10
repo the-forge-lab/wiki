@@ -10,4 +10,4 @@ type: moc
 [Go Up](dev)
 # The Linux Operating System
 
-## 1. [Useful Commands in Linux](basic-commands.md)
+## 1. [Useful Commands in Linux](commands.md)

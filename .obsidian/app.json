@@ -7,7 +7,7 @@
   "attachmentFolderPath": "./",
   "showInlineTitle": false,
   "mobilePullAction": "command-palette:open",
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "pdfExportSettings": {

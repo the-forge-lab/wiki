@@ -9,7 +9,7 @@ type: part
 ---
 [[various|Go Up]]
 # Top macOS commands
-Many [[linux|Linux]] commands will be running, so please see also the list of [[basic-commands|Linux Commands]].
+Many [[linux|Linux]] commands will be running, so please see also the list of [[commands|Linux Commands]].
 
 + `say` - Pronounce an expression
   ```shell

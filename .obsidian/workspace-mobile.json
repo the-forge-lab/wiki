@@ -4,97 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "36623d231c5e9375",
+        "id": "fdd9025f22af0bd6",
         "type": "tabs",
         "children": [
           {
-            "id": "2d17d6c336360c99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dev/ideas/ideas.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ca3a0a12076d328",
+            "id": "19b0026bde4ec3dd",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "e187f92ea1b24a32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/DGSE.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3f86fc8afb5a598",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/presentation.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7b858867ec3cd39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/reasons.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a587c78cfc582f2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/CFR.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38f489461fe9764e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/cloud.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "personal/reasons.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -177,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "personal/reasons.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -188,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "personal/reasons.md"
-          }
+          "state": {}
         }
       },
       {
@@ -204,17 +121,17 @@
     ],
     "currentTab": 0
   },
-  "active": "f7b858867ec3cd39",
+  "active": "19b0026bde4ec3dd",
   "lastOpenFiles": [
-    "personal/cloud.md",
-    "personal/reasons.md",
-    "personal/CFR.md",
-    "personal/DGSE.md",
+    "personal/motiv-epita.md",
     "personal/presentation.md",
+    "personal/reasons.md",
+    "personal/cloud.md",
+    "personal/DGSE.md",
+    "dev/ideas/ideas.md",
+    "personal/CFR.md",
     "DGSE.md",
     "personal/cfr.md",
-    "dev/ideas/ideas.md",
-    "personal/apprentissage.md",
-    "personal/todolist-depart.md"
+    "personal/apprentissage.md"
   ]
 }
