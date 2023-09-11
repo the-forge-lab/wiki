@@ -1,0 +1,25 @@
+## Requirements
+
+### Local Configuration
+
+To deploy the `/forge` infrastructure, you will need:
+
++ [Ansible](https://ansible.com/)
++ [Terraform](https://terraform.io/)
+
+This two tools must be installed on your local machine.
+
+The installation process installs the following tools on the remote machine:
+
++ [Docker](https://docker.com/)
++ [Docker Compose](https://docs.docker.com/compose/)
++ [Git](https://git-scm.com/)
++ [zsh](https://zsh.org/)
+
+### Host Configuration
+
+The configuration is tested only for `Debian`, I can't guarantee that it will work on other distributions.
+There are few requirements for the remote hosts:
+
++ All the hosts must have the same user with root privileges.
++ All the IPs address must be written in the `ansible/hosts.yml` file.

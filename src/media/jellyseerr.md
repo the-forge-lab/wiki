@@ -1,0 +1,3 @@
+# Jellyseerr
+
+> Not implemented yet
