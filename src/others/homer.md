@@ -1,4 +1,4 @@
-# Homer
+# Public Dashboard - Homer
 
 [![status](https://status.xavier2p.fr/api/badge/37/status?style=for-the-badge)](https://public.xavier2p.fr)
 

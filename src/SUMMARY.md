@@ -4,8 +4,10 @@
 
 # Technical
 
-- [Deployment](./deployment.md)
-  - [Requirements](./requirements.md)
+- [Deployment](./deployment/index.md)
+  - [Requirements](./deployment/requirements.md)
+  - [Pre Deployment](./deployment/pre-deployment.md)
+  - [Deployment](./deployment/deploy.md)
 - [Infrastructure](./infra/index.md)
   - [As Nix](./infra/system.md)
   - [As Code](./infra/as-code.md)

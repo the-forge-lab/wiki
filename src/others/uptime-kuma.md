@@ -1,4 +1,4 @@
-# Uptime Kuma
+# Status - Uptime Kuma
 
 [![status](https://status.xavier2p.fr/api/badge/43/status?style=for-the-badge)](https://status.xavier2p.fr)
 
