@@ -25,6 +25,8 @@
 - [Others](./others/index.md)
   - [Homer](./others/homer.md)
   - [Status](./others/uptime-kuma.md)
+  - [Mealie](./others/mealie.md)
+  - [Libreddit](./others/libreddit.md)
   - [FreshRSS](./others/freshrss.md)
   - [Speedtest](./others/speedtest.md)
 
