@@ -14,21 +14,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
-      - name: Setup Rust
-        uses: actions-rs/toolchain@v1
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
-          toolchain: stable
+          python-version: 3.x
 
-      - name: Install mdbook
-        run: cargo install mdbook --no-default-features --features search --vers "^0.4" --locked
+      - name: Cache ID
+        run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
 
-      - name: Build Documentation
-        run: mdbook build
-
-      - name: Deploy Documentation
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Cache
+        uses: actions/cache@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./book
+          key: mkdocs-material-${{ env.cache_id }}
+          path: .cache
+          restore-keys: |
+            mkdocs-material-
+
+      - name: Install dependencies
+        run: pip install mkdocs-material
+
+      - name: Deploy
+        run: mkdocs gh-deploy --force

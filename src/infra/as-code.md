@@ -1,4 +1,4 @@
-# As Code
+# Infra as Code
 
 My Infrastructure as Code is based on [`Terraform`](https://terraform.io/).
 All the files are publicly available on [GitHub](https://github.com/Xavier2p/infra-as-code).

@@ -10,4 +10,6 @@
 
 This is the documentation for the `/forge` project.
 
-> **Note:** This documentation is a work in progress. It is not complete and may contain errors.
+!!! warning
+
+    This documentation is a work in progress. It is not complete and may contain errors.
