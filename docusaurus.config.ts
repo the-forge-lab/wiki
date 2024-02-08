@@ -3,7 +3,7 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: '/forge Docs',
+  title: '/Wiki',
   tagline: '/forge Exploitation Wiki',
   favicon: 'img/favicon.ico',
 
@@ -37,13 +37,13 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/the-forge-lab/wiki/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/the-forge-lab/wiki/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -59,16 +59,34 @@ const config: Config = {
       title: '/wiki',
       logo: {
         alt: '/forge Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'services',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Services',
         },
-        { to: '/blog', label: 'Blog', position: 'left' },
+        {
+          type: 'docSidebar',
+          sidebarId: 'infrastructure',
+          position: 'left',
+          label: 'Infrastructure',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'deployment',
+          position: 'left',
+          label: 'Deployment',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'about',
+          position: 'left',
+          label: 'About',
+        },
+        { to: '/blog', label: 'Blog', position: 'right' },
         {
           href: 'https://github.com/the-forge-lab/wiki',
           label: 'GitHub',
