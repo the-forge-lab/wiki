@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkforge_wiki=self.webpackChunkforge_wiki||[]).push([[7180],{2028:e=>{e.exports=JSON.parse('{"title":"Cloud","slug":"/category/cloud","permalink":"/wiki/docs/category/cloud","navigation":{"previous":{"title":"MeTube","permalink":"/wiki/docs/media/metube"},"next":{"title":"Nextcloud","permalink":"/wiki/docs/cloud/nextcloud"}}}')}}]);
