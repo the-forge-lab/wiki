@@ -45,18 +45,19 @@ const sidebars: SidebarsConfig = {
     },
   ],
   infrastructure: [
+    'infra/intro',
     {
       type: 'category',
       label: 'Hosts',
       link: {
         type: 'generated-index',
       },
-      items: ['infra/hosts/scariff'],
+      items: ['infra/hosts/scariff', 'infra/hosts/exegol', 'infra/hosts/eadu', 'infra/hosts/mandalore'],
     },
     'infra/system',
     'infra/as-code',
   ],
-  deployment: ['deployment/requirements', 'deployment/pre-deployment', 'deployment/deploy'],
+  deployment: ['deployment/intro', 'deployment/requirements', 'deployment/pre-deployment', 'deployment/deploy'],
   about: ['about/contributing', 'about/credits', 'about/license'],
 };
 
