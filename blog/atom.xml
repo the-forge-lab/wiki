@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wiki.xavier2p.fr/wiki/blog</id>
     <title>/Wiki Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2024-02-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wiki.xavier2p.fr/wiki/blog"/>
     <subtitle>/Wiki Blog</subtitle>
     <icon>https://wiki.xavier2p.fr/wiki/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Launching /forge Blog]]></title>
+        <id>https://wiki.xavier2p.fr/wiki/blog/forge-has-a-blog-now</id>
+        <link href="https://wiki.xavier2p.fr/wiki/blog/forge-has-a-blog-now"/>
+        <updated>2024-02-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we are launching the /forge blog. We will use this space to share news, updates, and other information about the /forge project. We hope you find it useful and interesting.]]></summary>
+        <content type="html"><![CDATA[<p>Today, we are launching the /forge blog. We will use this space to share news, updates, and other information about the /forge project. We hope you find it useful and interesting.</p>]]></content>
+        <author>
+            <name>Xavier</name>
+            <uri>https://xavier2p.fr</uri>
+        </author>
+        <category label="news" term="news"/>
+        <category label="forge" term="forge"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://wiki.xavier2p.fr/wiki/blog/welcome</id>

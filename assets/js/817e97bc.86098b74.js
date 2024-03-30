@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkforge_wiki=self.webpackChunkforge_wiki||[]).push([[935],{47:e=>{e.exports=JSON.parse('{"title":"Media","slug":"/category/media","permalink":"/wiki/docs/category/media","navigation":{"next":{"title":"Jellyfin","permalink":"/wiki/docs/media/jellyfin"}}}')}}]);

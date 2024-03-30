@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkforge_wiki=self.webpackChunkforge_wiki||[]).push([[4304],{3564:(e,r,s)=>{s.r(r),s.d(r,{default:()=>t});s(1504);var c=s(5456),u=s(5756),a=s(5864),i=s(5464),k=s(9012),n=s(7624);function t(e){return(0,n.jsx)(u.cr,{className:(0,c.c)(a.W.wrapper.docsPages),children:(0,n.jsx)(k.c,{children:(0,i.k)(e.route.routes)})})}}}]);

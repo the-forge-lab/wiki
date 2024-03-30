@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkforge_wiki=self.webpackChunkforge_wiki||[]).push([[2811],{4092:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/wiki/blog/tags/hola","allTagsPath":"/wiki/blog/tags","count":1,"unlisted":false}')}}]);

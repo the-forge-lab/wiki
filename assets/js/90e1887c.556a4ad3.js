@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkforge_wiki=self.webpackChunkforge_wiki||[]).push([[4344],{9786:e=>{e.exports=JSON.parse('{"title":"Other","slug":"/category/other","permalink":"/wiki/docs/category/other","navigation":{"previous":{"title":"PhotoPrism","permalink":"/wiki/docs/cloud/photoprism"},"next":{"title":"FreshRSS","permalink":"/wiki/docs/other/freshrss"}}}')}}]);

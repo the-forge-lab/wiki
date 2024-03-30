@@ -4,10 +4,20 @@
         <title>/Wiki Blog</title>
         <link>https://wiki.xavier2p.fr/wiki/blog</link>
         <description>/Wiki Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Launching /forge Blog]]></title>
+            <link>https://wiki.xavier2p.fr/wiki/blog/forge-has-a-blog-now</link>
+            <guid>https://wiki.xavier2p.fr/wiki/blog/forge-has-a-blog-now</guid>
+            <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Today, we are launching the /forge blog. We will use this space to share news, updates, and other information about the /forge project. We hope you find it useful and interesting.]]></description>
+            <content:encoded><![CDATA[<p>Today, we are launching the /forge blog. We will use this space to share news, updates, and other information about the /forge project. We hope you find it useful and interesting.</p>]]></content:encoded>
+            <category>news</category>
+            <category>forge</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://wiki.xavier2p.fr/wiki/blog/welcome</link>
