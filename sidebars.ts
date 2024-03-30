@@ -52,7 +52,7 @@ const sidebars: SidebarsConfig = {
       link: {
         type: 'generated-index',
       },
-      items: ['infra/hosts/scariff', 'infra/hosts/exegol', 'infra/hosts/eadu', 'infra/hosts/mandalore'],
+      items: ['infra/hosts/mustafar', 'infra/hosts/exegol', 'infra/hosts/eadu', 'infra/hosts/mandalore'],
     },
     'infra/system',
     'infra/as-code',

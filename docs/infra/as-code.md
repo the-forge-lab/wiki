@@ -12,7 +12,7 @@ All the files are publicly available on [GitHub](https://github.com/Xavier2p/inf
 │   ├── common          # Common configuration for all hosts
 │   ├── exegol
 │   ├── eadu
-│   └── scariff
+│   └── mustafar
 ├── stacks              # Stacks of services
 │   ├── admin
 │   ├── cloud

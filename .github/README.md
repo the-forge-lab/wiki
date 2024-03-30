@@ -5,3 +5,5 @@
 ](https://xavier2p.github.io/wiki)
 [![GitHub](https://img.shields.io/github/license/xavier2p/wiki?style=for-the-badge&logo=github&color=yellow)
 ](./LICENSE.md)
+
+Forged using [facebook/docusaurus](https://github.com/facebook/docusaurus).
